@@ -5,8 +5,8 @@ Dark themed by default, no system pref theme, no flasing, font configured, next 
 
 ## How to use
 
-pnpm is prefered to use this template.
+Using pnpm is recommended. Use the command below:
 
 ```bash
-pnpm create next-app --example https://github.com/NoCrypt/template.git with-tailwindcss-app
+pnpm create next-app --example https://github.com/NoCrypt/template.git app-name
 ```
